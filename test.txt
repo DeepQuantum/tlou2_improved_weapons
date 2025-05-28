@@ -1,0 +1,1032 @@
+infected-pustule-thrower @ 0x2f48
+   -> weapon_pointer: 0x79f8
+   -> mag_size @ 0x7a90: 1 (+ 0)
+   -> mag_size_orig @ 0x7a90: 1
+   -> fire_rate @ 0x7a0c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7a0c: 0.3
+fire-trap @ 0x3b20
+   -> weapon_pointer: 0xdb90
+   -> mag_size @ 0xdc28: 1 (+ 0)
+   -> mag_size_orig @ 0xdc28: 1
+   -> fire_rate @ 0xdba4: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xdba4: 0.3
+machete-joel @ 0x2108
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+05A8AD8A9C335716 @ 0x3fe0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+hammer-modern @ 0x2400
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+rifle-mini-14-manny @ 0x2790
+   -> weapon_pointer: 0xe210
+   -> mag_size @ 0xe2a8: 8 (+ 0)
+   -> mag_size_orig @ 0xe2a8: 8
+   -> fire_rate @ 0xe224: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xe224: 0.5
+shotgun-remington-pump-black @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+rifle-tommy @ 0x2bb8
+   -> weapon_pointer: 0xebf0
+   -> mag_size @ 0xec88: 4 (+ 0)
+   -> mag_size_orig @ 0xec88: 4
+   -> fire_rate @ 0xec04: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xec04: 1.0
+baseball-bat @ 0x32d8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+gas-mask-lev @ 0x41a8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+machete @ 0x2108
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+trap-bomb @ 0x1ea8
+   -> weapon_pointer: 0x11f18
+   -> mag_size @ 0x11fb0: 1 (+ 0)
+   -> mag_size_orig @ 0x11fb0: 1
+   -> fire_rate @ 0x11f2c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x11f2c: 0.3
+trauma-kit @ 0x4a90
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+bow-scar-explosive @ 0x1e10
+   -> weapon_pointer: 0xf7b8
+   -> mag_size @ 0xf850: 1 (+ 0)
+   -> mag_size_orig @ 0xf850: 1
+   -> fire_rate @ 0xf7cc: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xf7cc: 0.75
+map-compass @ 0x4798
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-browning-jesse @ 0x3408
+   -> weapon_pointer: 0x8078
+   -> mag_size @ 0x8110: 10 (+ 0)
+   -> mag_size_orig @ 0x8110: 10
+   -> fire_rate @ 0x808c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x808c: 0.48
+pistol-revolver-joel-player @ 0x2c50
+   -> weapon_pointer: 0x13398
+   -> mag_size @ 0x13430: 12 (+ 0)
+   -> mag_size_orig @ 0x13430: 12
+   -> fire_rate @ 0x133ac: 0.9 (66.67) (+ 0.0%)
+   -> fire_rate_orig @ 0x133ac: 0.9
+shotgun-pump-stock-black @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+pistol-beretta @ 0x2ce8
+   -> weapon_pointer: 0x91c0
+   -> mag_size @ 0x9258: 9 (+ 3)
+   -> mag_size_orig @ 0x9258: 6
+   -> fire_rate @ 0x91d4: 0.38 (160.0) (+ 81.33%)
+   -> fire_rate_orig @ 0x91d4: 0.68
+rifle-bolt-m24-dark @ 0x3240
+   -> weapon_pointer: 0x94a8
+   -> mag_size @ 0x9540: 5 (+ 2)
+   -> mag_size_orig @ 0x9540: 3
+   -> fire_rate @ 0x94bc: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x94bc: 1.0
+tennis-ball-single-use @ 0x29f0
+   -> weapon_pointer: 0x60b0
+   -> mag_size @ 0x6148: 10 (+ 0)
+   -> mag_size_orig @ 0x6148: 10
+   -> fire_rate @ 0x60c4: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x60c4: 1.0
+bow-ellie @ 0x15c0
+   -> weapon_pointer: 0x7ce0
+   -> mag_size @ 0x7d78: 1 (+ 0)
+   -> mag_size_orig @ 0x7d78: 1
+   -> fire_rate @ 0x7cf4: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7cf4: 0.75
+short-pipe @ 0x5410
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-runner-unarmed @ 0x5a00
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+molotov @ 0x1bb0
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+shotgun-scar @ 0x1f40
+   -> weapon_pointer: 0x11c30
+   -> mag_size @ 0x11cc8: 4 (+ 0)
+   -> mag_size_orig @ 0x11cc8: 4
+   -> fire_rate @ 0x11c44: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0x11c44: 0.85
+hatchet @ 0x2d80
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shotgun-remington-pump-ellie-npc @ 0x3078
+   -> weapon_pointer: 0x6fa8
+   -> mag_size @ 0x7040: 4 (+ 0)
+   -> mag_size_orig @ 0x7040: 4
+   -> fire_rate @ 0x6fbc: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0x6fbc: 0.85
+tomahawk-sp @ 0x5540
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-browning-yara @ 0x3408
+   -> weapon_pointer: 0x8078
+   -> mag_size @ 0x8110: 10 (+ 0)
+   -> mag_size_orig @ 0x8110: 10
+   -> fire_rate @ 0x808c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x808c: 0.48
+pain-killer @ 0x1400
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shotgun-remington-manny @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+dagger-scar-lev-player @ 0x3fe0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+trip-wire-bomb @ 0x4538
+   -> weapon_pointer: 0x11f18
+   -> mag_size @ 0x11fb0: 1 (+ 0)
+   -> mag_size_orig @ 0x11fb0: 1
+   -> fire_rate @ 0x11f2c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x11f2c: 0.3
+rifle-tommy-buddy @ 0x19e8
+   -> weapon_pointer: 0xaf98
+   -> mag_size @ 0xb030: 4 (+ 0)
+   -> mag_size_orig @ 0xb030: 4
+   -> fire_rate @ 0xafac: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xafac: 1.0
+hatchet-black @ 0x2d80
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-xcaliber @ 0x35d0
+   -> weapon_pointer: 0xde78
+   -> mag_size @ 0xdf10: 1 (+ 0)
+   -> mag_size_orig @ 0xdf10: 1
+   -> fire_rate @ 0xde8c: 0.7 (85.71) (+ 0.0%)
+   -> fire_rate_orig @ 0xde8c: 0.7
+axe-scar @ 0x52e0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-bloater-unarmed-no-damage @ 0x4d88
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-rat-king-super-stalker-unarmed @ 0x34a0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+baseball-bat-metal @ 0x3ce8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+unarmed @ 0x26f8
+   -> weapon_pointer: 0xc3c8
+   -> mag_size @ 0xc460: 10 (+ 0)
+   -> mag_size_orig @ 0xc460: 10
+   -> fire_rate @ 0xc3dc: 0.08 (750.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xc3dc: 0.08
+rifle-mpx5-tilt @ 0x4668
+   -> weapon_pointer: 0xa320
+   -> mag_size @ 0xa3b8: 20 (+ 0)
+   -> mag_size_orig @ 0xa3b8: 20
+   -> fire_rate @ 0xa334: 0.1 (600.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xa334: 0.1
+shotgun-dbl-barrel-abby @ 0x2070
+   -> weapon_pointer: 0x12cf0
+   -> mag_size @ 0x12d88: 2 (+ 0)
+   -> mag_size_orig @ 0x12d88: 2
+   -> fire_rate @ 0x12d04: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x12d04: 0.5
+pistol-ruger-jordan @ 0x21a0
+   -> weapon_pointer: 0x7628
+   -> mag_size @ 0x76c0: 10 (+ 0)
+   -> mag_size_orig @ 0x76c0: 10
+   -> fire_rate @ 0x763c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x763c: 0.48
+hammer-scar @ 0x2400
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-cz75-dina @ 0x3408
+   -> weapon_pointer: 0x8078
+   -> mag_size @ 0x8110: 10 (+ 0)
+   -> mag_size_orig @ 0x8110: 10
+   -> fire_rate @ 0x808c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x808c: 0.48
+rifle-tommy-boss @ 0x5a98
+   -> weapon_pointer: 0x6828
+   -> mag_size @ 0x68c0: 4 (+ 0)
+   -> mag_size_orig @ 0x68c0: 4
+   -> fire_rate @ 0x683c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x683c: 1.0
+switchblade-dina-player @ 0x3fe0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+flamethrower @ 0x3e18
+   -> weapon_pointer: 0xa790
+   -> mag_size @ 0xa828: 100 (+ 0)
+   -> mag_size_orig @ 0xa828: 100
+   -> fire_rate @ 0xa7a4: 0.03 (2400.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xa7a4: 0.03
+human-unarmed @ 0x3d80
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+bow-scar @ 0x25c8
+   -> weapon_pointer: 0xc9d0
+   -> mag_size @ 0xca68: 1 (+ 0)
+   -> mag_size_orig @ 0xca68: 1
+   -> fire_rate @ 0xc9e4: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xc9e4: 0.75
+pipe-bomb-manny @ 0x3a88
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+dagger @ 0x5d90
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+bow-ellie-npc @ 0x2498
+   -> weapon_pointer: 0xd4e8
+   -> mag_size @ 0xd580: 1 (+ 0)
+   -> mag_size_orig @ 0xd580: 1
+   -> fire_rate @ 0xd4fc: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xd4fc: 0.75
+51F309AB9D13A384 @ 0x1498
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+infected-rat-king-unarmed @ 0x2530
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-colt-1911-manny @ 0x21a0
+   -> weapon_pointer: 0x7628
+   -> mag_size @ 0x76c0: 10 (+ 0)
+   -> mag_size_orig @ 0x76c0: 10
+   -> fire_rate @ 0x763c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x763c: 0.48
+squid-squeaky-toy @ 0x5670
+   -> weapon_pointer: 0xb618
+   -> mag_size @ 0xb6b0: 10 (+ 0)
+   -> mag_size_orig @ 0xb6b0: 10
+   -> fire_rate @ 0xb62c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xb62c: 1.0
+rifle-mel @ 0x4830
+   -> weapon_pointer: 0xbbc0
+   -> mag_size @ 0xbc58: 4 (+ 0)
+   -> mag_size_orig @ 0xbc58: 4
+   -> fire_rate @ 0xbbd4: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xbbd4: 1.0
+pistol-revolver-militia @ 0x31a8
+   -> weapon_pointer: 0xd7d0
+   -> mag_size @ 0xd868: 6 (+ 0)
+   -> mag_size_orig @ 0xd868: 6
+   -> fire_rate @ 0xd7e4: 0.7 (85.71) (+ 28.57%)
+   -> fire_rate_orig @ 0xd7e4: 0.9
+rifle-m14 @ 0x2790
+   -> weapon_pointer: 0xe210
+   -> mag_size @ 0xe2a8: 8 (+ 0)
+   -> mag_size_orig @ 0xe2a8: 8
+   -> fire_rate @ 0xe224: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xe224: 0.5
+rifle-tommy-boss-no-tracer @ 0x5838
+   -> weapon_pointer: 0x12388
+   -> mag_size @ 0x12420: 4 (+ 0)
+   -> mag_size_orig @ 0x12420: 4
+   -> fire_rate @ 0x1239c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1239c: 1.0
+pistol-scar @ 0x21a0
+   -> weapon_pointer: 0x7628
+   -> mag_size @ 0x76c0: 10 (+ 0)
+   -> mag_size_orig @ 0x76c0: 10
+   -> fire_rate @ 0x763c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x763c: 0.48
+pipe-bomb-npc @ 0x4f50
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+rifle-mpx5 @ 0x2eb0
+   -> weapon_pointer: 0x10768
+   -> mag_size @ 0x10800: 20 (+ 0)
+   -> mag_size_orig @ 0x10800: 20
+   -> fire_rate @ 0x1077c: 0.1 (600.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1077c: 0.1
+pistol-ruger-mel @ 0x21a0
+   -> weapon_pointer: 0x7628
+   -> mag_size @ 0x76c0: 10 (+ 0)
+   -> mag_size_orig @ 0x76c0: 10
+   -> fire_rate @ 0x763c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x763c: 0.48
+pickaxe-scar @ 0x1ce0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+rifle-tommy-boss-close @ 0x4b28
+   -> weapon_pointer: 0xf060
+   -> mag_size @ 0xf0f8: 4 (+ 0)
+   -> mag_size_orig @ 0xf0f8: 4
+   -> fire_rate @ 0xf074: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xf074: 1.0
+torch @ 0x45d0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+66F99BB88C023A29 @ 0x2660
+   -> weapon_pointer: 0x79f8
+   -> mag_size @ 0x7a90: 1 (+ 0)
+   -> mag_size_orig @ 0x7a90: 1
+   -> fire_rate @ 0x7a0c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7a0c: 0.3
+infected-clicker-unarmed @ 0x2a88
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+abby-unarmed @ 0x38c8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shotgun-baserri-over-under @ 0x3bb8
+   -> weapon_pointer: 0xc6e8
+   -> mag_size @ 0xc780: 2 (+ 0)
+   -> mag_size_orig @ 0xc780: 2
+   -> fire_rate @ 0xc6fc: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xc6fc: 0.5
+axe-fireman @ 0x52e0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+snowball-unarmed @ 0x1658
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-pustule-ratking @ 0x5248
+   -> weapon_pointer: 0x79f8
+   -> mag_size @ 0x7a90: 1 (+ 0)
+   -> mag_size_orig @ 0x7a90: 1
+   -> fire_rate @ 0x7a0c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7a0c: 0.3
+rifle-vepr @ 0x4408
+   -> weapon_pointer: 0xe830
+   -> mag_size @ 0xe8c8: 9 (+ 0)
+   -> mag_size_orig @ 0xe8c8: 9
+   -> fire_rate @ 0xe844: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xe844: 0.5
+pistol-glock @ 0x54a8
+   -> weapon_pointer: 0x110b8
+   -> mag_size @ 0x11150: 12 (+ 6)
+   -> mag_size_orig @ 0x11150: 6
+   -> fire_rate @ 0x110cc: 0.3 (200.0) (+ 126.67%)
+   -> fire_rate_orig @ 0x110cc: 0.68
+tomahawk @ 0x3c50
+   -> weapon_pointer: 0xfd50
+   -> mag_size @ 0xfde8: 1 (+ 0)
+   -> mag_size_orig @ 0xfde8: 1
+   -> fire_rate @ 0xfd64: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xfd64: 0.3
+rifle-tommy-abby-player @ 0x1950
+   -> weapon_pointer: 0xacb0
+   -> mag_size @ 0xad48: 2 (+ 0)
+   -> mag_size_orig @ 0xad48: 2
+   -> fire_rate @ 0xacc4: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xacc4: 1.0
+shotgun-pump-joel @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+pipe-wrench @ 0x5b30
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+crowbar @ 0x3370
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+switchblade-abby @ 0x1820
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+joel-fists @ 0x28c0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-pustule-superstalker @ 0x1c48
+   -> weapon_pointer: 0x79f8
+   -> mag_size @ 0x7a90: 1 (+ 0)
+   -> mag_size_orig @ 0x7a90: 1
+   -> fire_rate @ 0x7a0c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7a0c: 0.3
+rifle-assault-firefly-ellie-player @ 0x3830
+   -> weapon_pointer: 0x130b0
+   -> mag_size @ 0x13148: 30 (+ 0)
+   -> mag_size_orig @ 0x13148: 30
+   -> fire_rate @ 0x130c4: 0.1 (600.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x130c4: 0.1
+switchblade-exhausted @ 0x4eb8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+basketball @ 0x5cf8
+   -> weapon_pointer: 0x8d50
+   -> mag_size @ 0x8de8: 10 (+ 0)
+   -> mag_size_orig @ 0x8de8: 10
+   -> fire_rate @ 0x8d64: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x8d64: 1.0
+knife-survival-mel @ 0x3668
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+crossbow @ 0x5378
+   -> weapon_pointer: 0x7340
+   -> mag_size @ 0x73d8: 1 (+ 0)
+   -> mag_size_orig @ 0x73d8: 1
+   -> fire_rate @ 0x7354: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7354: 0.75
+rifle-mini-14-wood @ 0x2790
+   -> weapon_pointer: 0xe210
+   -> mag_size @ 0xe2a8: 8 (+ 0)
+   -> mag_size_orig @ 0xe2a8: 8
+   -> fire_rate @ 0xe224: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xe224: 0.5
+pistol-cz75-black @ 0x3408
+   -> weapon_pointer: 0x8078
+   -> mag_size @ 0x8110: 10 (+ 0)
+   -> mag_size_orig @ 0x8110: 10
+   -> fire_rate @ 0x808c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x808c: 0.48
+stun-bomb @ 0x4078
+   -> weapon_pointer: 0x102f8
+   -> mag_size @ 0x10390: 1 (+ 0)
+   -> mag_size_orig @ 0x10390: 1
+   -> fire_rate @ 0x1030c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1030c: 0.3
+rifle-dina-player @ 0x18b8
+   -> weapon_pointer: 0x11948
+   -> mag_size @ 0x119e0: 1 (+ 0)
+   -> mag_size_orig @ 0x119e0: 1
+   -> fire_rate @ 0x1195c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1195c: 1.0
+bow-npc-ellie @ 0x4c58
+   -> weapon_pointer: 0x6490
+   -> mag_size @ 0x6528: 1 (+ 0)
+   -> mag_size_orig @ 0x6528: 1
+   -> fire_rate @ 0x64a4: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x64a4: 0.75
+npc-abby-unarmed @ 0x22d0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+rifle-lever-action @ 0x4960
+   -> weapon_pointer: 0x10b28
+   -> mag_size @ 0x10bc0: 5 (+ 0)
+   -> mag_size_orig @ 0x10bc0: 5
+   -> fire_rate @ 0x10b3c: 1.1 (54.55) (+ 0.0%)
+   -> fire_rate_orig @ 0x10b3c: 1.1
+distraction @ 0x3798
+   -> weapon_pointer: 0x6b10
+   -> mag_size @ 0x6ba8: 1 (+ 0)
+   -> mag_size_orig @ 0x6ba8: 1
+   -> fire_rate @ 0x6b24: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x6b24: 0.3
+lead-pipe @ 0x3f48
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+bow-joel @ 0x4700
+   -> weapon_pointer: 0xb280
+   -> mag_size @ 0xb318: 1 (+ 0)
+   -> mag_size_orig @ 0xb318: 1
+   -> fire_rate @ 0xb294: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xb294: 0.75
+91DBA2A882E9AD55 @ 0x3960
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+sledgehammer @ 0x58d0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+rifle-bolt-scar @ 0x2238
+   -> weapon_pointer: 0x12748
+   -> mag_size @ 0x127e0: 1 (+ 0)
+   -> mag_size_orig @ 0x127e0: 1
+   -> fire_rate @ 0x1275c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1275c: 1.0
+turret-basic @ 0x16f0
+   -> weapon_pointer: 0x8680
+   -> mag_size @ 0x8718: 8 (+ 0)
+   -> mag_size_orig @ 0x8718: 8
+   -> fire_rate @ 0x8694: 0.1 (600.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x8694: 0.1
+infected-bloater-unarmed @ 0x4fe8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+rifle-lever-jesse @ 0x4960
+   -> weapon_pointer: 0x10b28
+   -> mag_size @ 0x10bc0: 5 (+ 0)
+   -> mag_size_orig @ 0x10bc0: 5
+   -> fire_rate @ 0x10b3c: 1.1 (54.55) (+ 0.0%)
+   -> fire_rate_orig @ 0x10b3c: 1.1
+rifle-bolt-m24 @ 0x3240
+   -> weapon_pointer: 0x94a8
+   -> mag_size @ 0x9540: 5 (+ 2)
+   -> mag_size_orig @ 0x9540: 3
+   -> fire_rate @ 0x94bc: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x94bc: 1.0
+bow-lev @ 0x4700
+   -> weapon_pointer: 0xb280
+   -> mag_size @ 0xb318: 1 (+ 0)
+   -> mag_size_orig @ 0xb318: 1
+   -> fire_rate @ 0xb294: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xb294: 0.75
+smoke-bomb @ 0x3538
+   -> weapon_pointer: 0x102f8
+   -> mag_size @ 0x10390: 1 (+ 0)
+   -> mag_size_orig @ 0x10390: 1
+   -> fire_rate @ 0x1030c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1030c: 0.3
+hatchet-scar @ 0x5540
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+boar-unarmed @ 0x1fd8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+health-kit @ 0x1a80
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+switchblade-npc-ellie @ 0x5c60
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+machete-wood @ 0x2108
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+hunting-knife @ 0x3fe0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-stalker-unarmed @ 0x4bc0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+switchblade-stab-combo @ 0x1b18
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shotgun-remington-pump-bill @ 0x4110
+   -> weapon_pointer: 0x9918
+   -> mag_size @ 0x99b0: 6 (+ 0)
+   -> mag_size_orig @ 0x99b0: 6
+   -> fire_rate @ 0x992c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x992c: 1.0
+fish @ 0x5968
+   -> weapon_pointer: 0xb618
+   -> mag_size @ 0xb6b0: 10 (+ 0)
+   -> mag_size_orig @ 0xb6b0: 10
+   -> fire_rate @ 0xb62c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xb62c: 1.0
+pistol-revolver-357 @ 0x31a8
+   -> weapon_pointer: 0xd7d0
+   -> mag_size @ 0xd868: 6 (+ 0)
+   -> mag_size_orig @ 0xd868: 6
+   -> fire_rate @ 0xd7e4: 0.7 (85.71) (+ 28.57%)
+   -> fire_rate_orig @ 0xd7e4: 0.9
+infected-shambler-unarmed @ 0x4240
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+switchblade-dina @ 0x3668
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+tennis-ball @ 0x2958
+   -> weapon_pointer: 0xb618
+   -> mag_size @ 0xb6b0: 10 (+ 0)
+   -> mag_size_orig @ 0xb6b0: 10
+   -> fire_rate @ 0xb62c: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xb62c: 1.0
+ellie-unarmed @ 0x3700
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shotgun-pump-mel @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+scythe-scar @ 0x3110
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+molotov-npc @ 0x48c8
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+pistol-tommy @ 0x3408
+   -> weapon_pointer: 0x8078
+   -> mag_size @ 0x8110: 10 (+ 0)
+   -> mag_size_orig @ 0x8110: 10
+   -> fire_rate @ 0x808c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x808c: 0.48
+infected-runner-unarmed-reduced-damage @ 0x42d8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shotgun-pump-joel-v-bloater @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+shotgun-remington-pump @ 0x49f8
+   -> weapon_pointer: 0xf348
+   -> mag_size @ 0xf3e0: 5 (+ 1)
+   -> mag_size_orig @ 0xf3e0: 4
+   -> fire_rate @ 0xf35c: 0.85 (70.59) (+ 0.0%)
+   -> fire_rate_orig @ 0xf35c: 0.85
+pickaxe-player @ 0x57a0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+switchblade @ 0x3fe0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+two-by-four @ 0x2828
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+dog-unarmed @ 0x2fe0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-militia @ 0x21a0
+   -> weapon_pointer: 0x7628
+   -> mag_size @ 0x76c0: 10 (+ 0)
+   -> mag_size_orig @ 0x76c0: 10
+   -> fire_rate @ 0x763c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x763c: 0.48
+snowball @ 0x2b20
+   -> weapon_pointer: 0x8398
+   -> mag_size @ 0x8430: 10 (+ 0)
+   -> mag_size_orig @ 0x8430: 10
+   -> fire_rate @ 0x83ac: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x83ac: 0.3
+dagger-scar-lev @ 0x5d90
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pipe-bomb @ 0x2e18
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+pistol-revolver-joel @ 0x31a8
+   -> weapon_pointer: 0xd7d0
+   -> mag_size @ 0xd868: 6 (+ 0)
+   -> mag_size_orig @ 0xd868: 6
+   -> fire_rate @ 0xd7e4: 0.7 (85.71) (+ 28.57%)
+   -> fire_rate_orig @ 0xd7e4: 0.9
+bow-toy @ 0x4e20
+   -> weapon_pointer: 0xce40
+   -> mag_size @ 0xced8: 1 (+ 0)
+   -> mag_size_orig @ 0xced8: 1
+   -> fire_rate @ 0xce54: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xce54: 0.75
+rifle-galil @ 0x3eb0
+   -> weapon_pointer: 0x9d88
+   -> mag_size @ 0x9e20: 20 (+ 0)
+   -> mag_size_orig @ 0x9e20: 20
+   -> fire_rate @ 0x9d9c: 0.1 (600.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x9d9c: 0.1
+rifle-lever-joel @ 0x4960
+   -> weapon_pointer: 0x10b28
+   -> mag_size @ 0x10bc0: 5 (+ 0)
+   -> mag_size_orig @ 0x10bc0: 5
+   -> fire_rate @ 0x10b3c: 1.1 (54.55) (+ 0.0%)
+   -> fire_rate_orig @ 0x10b3c: 1.1
+rifle-mini-14 @ 0x2790
+   -> weapon_pointer: 0xe210
+   -> mag_size @ 0xe2a8: 8 (+ 0)
+   -> mag_size_orig @ 0xe2a8: 8
+   -> fire_rate @ 0xe224: 0.5 (120.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xe224: 0.5
+bottle @ 0x5708
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+machete-scar @ 0x2108
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+rifle-remington-bolt @ 0x3240
+   -> weapon_pointer: 0x94a8
+   -> mag_size @ 0x9540: 5 (+ 2)
+   -> mag_size_orig @ 0x9540: 3
+   -> fire_rate @ 0x94bc: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x94bc: 1.0
+pistol-revolver-owen @ 0x31a8
+   -> weapon_pointer: 0xd7d0
+   -> mag_size @ 0xd868: 6 (+ 0)
+   -> mag_size_orig @ 0xd868: 6
+   -> fire_rate @ 0xd7e4: 0.7 (85.71) (+ 28.57%)
+   -> fire_rate_orig @ 0xd7e4: 0.9
+pistol-isaac @ 0x3408
+   -> weapon_pointer: 0x8078
+   -> mag_size @ 0x8110: 10 (+ 0)
+   -> mag_size_orig @ 0x8110: 10
+   -> fire_rate @ 0x808c: 0.48 (125.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x808c: 0.48
+axe @ 0x1d78
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+club-2h-scar @ 0x32d8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-revolver-owen-player @ 0x2368
+   -> weapon_pointer: 0xd200
+   -> mag_size @ 0xd298: 6 (+ 0)
+   -> mag_size_orig @ 0xd298: 6
+   -> fire_rate @ 0xd214: 0.9 (66.67) (+ 0.0%)
+   -> fire_rate_orig @ 0xd214: 0.9
+rifle-dina @ 0x4830
+   -> weapon_pointer: 0xbbc0
+   -> mag_size @ 0xbc58: 4 (+ 0)
+   -> mag_size_orig @ 0xbc58: 4
+   -> fire_rate @ 0xbbd4: 1.0 (60.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xbbd4: 1.0
+switchblade-trained-combo @ 0x4370
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+pistol-revolver-taurus @ 0x31a8
+   -> weapon_pointer: 0xd7d0
+   -> mag_size @ 0xd868: 6 (+ 0)
+   -> mag_size_orig @ 0xd868: 6
+   -> fire_rate @ 0xd7e4: 0.7 (85.71) (+ 28.57%)
+   -> fire_rate_orig @ 0xd7e4: 0.9
+molotov-npc-ellie @ 0x1788
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+bow-scar-trailer @ 0x4cf0
+   -> weapon_pointer: 0x13808
+   -> mag_size @ 0x138a0: 1 (+ 0)
+   -> mag_size_orig @ 0x138a0: 1
+   -> fire_rate @ 0x1381c: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x1381c: 0.75
+infected-unarmed @ 0x55d8
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+bow-workbench @ 0x15c0
+   -> weapon_pointer: 0x7ce0
+   -> mag_size @ 0x7d78: 1 (+ 0)
+   -> mag_size_orig @ 0x7d78: 1
+   -> fire_rate @ 0x7cf4: 0.75 (80.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7cf4: 0.75
+club-1h-police @ 0x3370
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+club-1h-scar @ 0x5118
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+brick @ 0x5080
+   -> weapon_pointer: 0x13bc8
+   -> mag_size @ 0x13c60: 10 (+ 0)
+   -> mag_size_orig @ 0x13c60: 10
+   -> fire_rate @ 0x13bdc: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x13bdc: 0.3
+shiv-d @ 0x51b0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shiv-e @ 0x51b0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shiv-f @ 0x51b0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shiv-a @ 0x51b0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shiv-b @ 0x51b0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+shiv-c @ 0x51b0
+   -> weapon_pointer: 0x0
+   -> mag_size @ 0x98: 4792 (+ 0)
+   -> mag_size_orig @ 0x98: 4792
+   -> fire_rate @ 0x14: 0.0 (3.892493707379891e+45) (+ 0.0%)
+   -> fire_rate_orig @ 0x14: 0.0
+infected-pustule-bloater @ 0x5bc8
+   -> weapon_pointer: 0x79f8
+   -> mag_size @ 0x7a90: 1 (+ 0)
+   -> mag_size_orig @ 0x7a90: 1
+   -> fire_rate @ 0x7a0c: 0.3 (200.0) (+ 0.0%)
+   -> fire_rate_orig @ 0x7a0c: 0.3
+pistol-revolver-scar @ 0x44a0
+   -> weapon_pointer: 0xc008
+   -> mag_size @ 0xc0a0: 6 (+ 0)
+   -> mag_size_orig @ 0xc0a0: 6
+   -> fire_rate @ 0xc01c: 0.8 (75.0) (+ 0.0%)
+   -> fire_rate_orig @ 0xc01c: 0.8
